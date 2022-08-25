@@ -24,7 +24,7 @@ Please check the attachement sent from rasperry pi security system.
 SMTP_SERVER= 'smtp.gmail.com'
 SMTP_PORT= 587
 USERNAME= 'raspisurveillance009@gmail.com'
-PASSWORD= 'Speaker101'
+PASSWORD= ''
 RECIEVER_EMAIL= 'theodoretsimiklis@gmail.com'
 
 #*********************************************** Video finename and path *************************************************
